@@ -3,7 +3,9 @@
     '10/26/2022
     'Using a class for tic tac toe 
     Sub Main()
-        Console.WriteLine("Edited on GitHub - but i don't have to give credit!") 
+        Console.WriteLine("Tic Tac Toe by Nathan Woodring") 
+         Console.WriteLine("Edited on GitHub - but i don't have to give credit!") 
+        Console.WriteLine("Changed on GitHub") 
         Dim myBoard As New TTTBoard
         myBoard.ResetBoard()
         Dim gameover As Boolean = False

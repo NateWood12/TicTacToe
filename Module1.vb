@@ -3,7 +3,7 @@
     '10/26/2022
     'Using a class for tic tac toe 
     Sub Main()
-        Console.WriteLine("Tic Tac Toe by Nathan Woodring!")
+        Console.WriteLine("Tic Tac Toe by Nathan Woodring!") 'edited on GitHub
         Dim myBoard As New TTTBoard
         myBoard.ResetBoard()
         Dim gameover As Boolean = False
